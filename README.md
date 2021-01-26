@@ -2,7 +2,6 @@
 
 <hr>
 
-#### Um  Desafio Digital Innovation One
 ##### Recriando a Interface do Netflix 
 Recriação da interface do principal site de streaming mundial, utilizando tecnologias simples como HTML5, CSS3 e JavaScript. 
 
